@@ -21,6 +21,7 @@ namespace GitHub_Sandbox.Controllers
 
         public AccountController()
         {
+            //nothing here
         }
 
         public AccountController(ApplicationUserManager userManager)
