@@ -22,6 +22,7 @@ namespace GitHub_Sandbox.Controllers
         public AccountController()
         {
             //nothing here
+            //nothing here added remotely
         }
 
         public AccountController(ApplicationUserManager userManager)
